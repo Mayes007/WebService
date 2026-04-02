@@ -1,7 +1,0 @@
-GET http://localhost:3000 HTTP/1.1
-
-###
-GET http://localhost:3000/another HTTP/1.1
-
-###
-GET https://webservice-00xb.onrender.com HTTP/1.1
